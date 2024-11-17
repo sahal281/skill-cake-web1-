@@ -7,7 +7,7 @@ const cakeDetailsData = {
     2: { name: 'Vanilla Cake', price: '400', description: 'Classic  Rich vanilla cake .' },
     3: { name: 'Red Velvet Cake', price: '600', description: 'Classic red velvet cake  .' },
     4: { name: 'Dark forest cake', price: '550', description: ' classic and simple Dark  forest .' },
-    // Add more details as needed
+
 };
 
 function CakeDetails() {
