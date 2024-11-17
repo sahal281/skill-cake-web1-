@@ -7,7 +7,7 @@ const cakesData = [
     { id: 2, name: 'Vanilla Cake', price: 'rupees 400', image: 'https://tse3.mm.bing.net/th?id=OIP.ZIQ1S_VWCELnbWiGuuPZpgHaKX&pid=Api&P=0&h=180' },
     { id: 3, name: 'Red velvet Cake', price: 'rupees 600', image: 'https://tse3.mm.bing.net/th?id=OIP.eP4IHmdXFdKe7lKN7Xc6uAHaFn&pid=Api&P=0&h=180' },
     { id: 4, name: 'Dark forest cake', price: 'rupees 550', image: 'https://tse4.mm.bing.net/th?id=OIP.XtwvjcFXNcI4l82k88gogQHaHa&pid=Api&P=0&h=180' },
-    // Add more cakes as needed
+    // cakes description
 ];
 
 function Cakes() {
